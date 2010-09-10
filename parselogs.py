@@ -13,3 +13,4 @@ while(True):
                 print "\t%s" % logLine
         else:
             print part
+    print "\n=================================\n"
